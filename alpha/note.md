@@ -1,3 +1,3 @@
 ## 变更
 
-- 修复大字设备上的 Markdown inlined code 块宽度问题
+- 修复 Android 10/11 无法获取 Soc 名导致的崩溃问题
