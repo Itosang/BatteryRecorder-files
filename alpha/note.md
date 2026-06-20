@@ -1,3 +1,3 @@
 ## 变更
 
-- 移除 Binder 代理功能
+- 拒收低版本 service Binder 并发出重启请求
