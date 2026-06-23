@@ -1,3 +1,3 @@
 ## 变更
 
-- 改用 AboutLibraries 获取许可
+- 优化折叠项箭头 UI
