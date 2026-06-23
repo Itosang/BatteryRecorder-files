@@ -1,3 +1,3 @@
 ## 变更
 
-- 新增 Server 崩溃上报
+- 改用 AboutLibraries 获取许可
