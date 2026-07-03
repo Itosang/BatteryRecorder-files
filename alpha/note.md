@@ -1,3 +1,3 @@
 ## 变更
 
-- 缓存回调，提升 app 首页数据响应速度
+- 修复第一次打开时的 Firebase Application Context 未初始化报错
