@@ -1,4 +1,3 @@
 ## 变更
 
-- 优化记录器开销
-- 跟随系统服务死亡而停止
+- 修复 HyperOS 上可能存在的Resources.getSystem()触发的crash
