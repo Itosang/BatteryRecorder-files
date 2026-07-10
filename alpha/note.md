@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复日志记录器传参错误
+- 修复 Pixel 8 系列无法获取电池设计容量导致的崩溃问题
 
 ## Changes
 
-- Fixed logger parameter passing error.
+- Fixed a crash on the Pixel 8 series caused by the inability to retrieve the battery's design capacity.
