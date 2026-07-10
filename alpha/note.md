@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复澎湃OS无法通知
+- 截图页显示第三方定制UI版本
 
 ## Changes
 
-- Fixed the issue of HyperOS failing to send notifications.
+- The screenshot page shows a third party customized UI version.
