@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复 Pixel 8 系列无法获取电池设计容量导致的崩溃问题
+- 修复关闭预测返回手势之后，全局返回事件被莫名其妙屏蔽问题
 
 ## Changes
 
-- Fixed a crash on the Pixel 8 series caused by the inability to retrieve the battery's design capacity.
+- Fixed an issue where the global back event was inexplicably blocked after disabling the predictive back gesture.
