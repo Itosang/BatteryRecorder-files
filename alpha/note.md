@@ -1,7 +1,7 @@
 ## 变更
 
-- 尝试修复小窗判定错误
+- 修复澎湃OS无法通知
 
 ## Changes
 
-- Attempted to fix the detection error for the small window.
+- Fixed the issue of HyperOS failing to send notifications.
