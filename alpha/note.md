@@ -1,7 +1,4 @@
 ## 变更
 
-- 截图页显示第三方定制UI版本
-
-## Changes
-
-- The screenshot page shows a third party customized UI version.
+- 优化历史统计逻辑并清理冗余代码
+- 将历史页默认样式从经典改为强调
