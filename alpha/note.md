@@ -1,4 +1,7 @@
 ## 变更
 
-- 优化历史统计逻辑并清理冗余代码
-- 将历史页默认样式从经典改为强调
+- 修复悬浮窗内存泄漏
+
+## Changes
+
+- Fix floating window memory leak.
