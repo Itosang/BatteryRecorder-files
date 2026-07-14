@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复悬浮窗内存泄漏
+- 修复停止服务无法使用
 
 ## Changes
 
-- Fix floating window memory leak.
+- Fixed an issue where the "Stop Service" function was not working.
