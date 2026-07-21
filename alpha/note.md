@@ -1,7 +1,7 @@
 ## 变更
 
-- 测试 AppShare 自动发布
+- 修复温度曲线 0 度以下被截断的问题
 
 ## Changes
 
-- Test AppShare auto publish
+- Fix the issue of temperature curve being truncated below 0 degrees.
