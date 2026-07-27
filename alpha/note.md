@@ -1,7 +1,3 @@
 ## 变更
 
-- 新增英文文档
-
-## Changes
-
-- Added English documentation
+- 测试 AppShare 发布，无须更新
