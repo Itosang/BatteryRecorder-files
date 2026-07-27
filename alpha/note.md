@@ -1,3 +1,7 @@
 ## 变更
 
-- 简化历史记录摘要文案
+- 新增英文文档
+
+## Changes
+
+- Added English documentation
