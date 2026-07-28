@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增 O-LED 纯黑主题
+- 新增历史记录备注
 
 ## Changes
 
-- Added O-LED pure black theme
+- Added history record remark feature
