@@ -1,3 +1,3 @@
 ## 变更
 
-- 修复澎湃超级岛不显示
+- 支持 https://github.com/yangFenTuoZi/OPlus-MMS-Unlock-via-OPBATT 采样解限
