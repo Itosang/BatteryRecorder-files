@@ -1,3 +1,3 @@
 ## 变更
 
-- 支持 https://github.com/yangFenTuoZi/OPlus-MMS-Unlock-via-OPBATT 采样解限
+- 修复原本开关控件在非tonalspot配色下对比度过低问题
