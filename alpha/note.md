@@ -1,7 +1,9 @@
 ## 变更
 
-- 修复部分系统上通知崩溃
+- 重构服务端架构
+- 修复 ImGUI 悬浮窗大小更新延迟的问题
 
 ## Changes
 
-- Fixed notification crashes on some systems.
+- Refactored server architecture
+- Fixed the issue with delayed size updates for ImGui floating windows
