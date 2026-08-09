@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复切换状态栏图标显示后，缓存 builder 不会被刷新
+- 状态栏图标显示使用系统默认字体（非主题字体）
 
 ## Changes
 
-- Fixed an issue where the cache builder was not refreshed after toggling the status bar icon display.
+- Status bar icons use the system default font (not the theme font).
