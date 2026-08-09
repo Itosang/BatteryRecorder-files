@@ -1,9 +1,7 @@
 ## 变更
 
-- 重构服务端架构
-- 修复 ImGUI 悬浮窗大小更新延迟的问题
+- 修复切换状态栏图标显示后，缓存 builder 不会被刷新
 
 ## Changes
 
-- Refactored server architecture
-- Fixed the issue with delayed size updates for ImGui floating windows
+- Fixed an issue where the cache builder was not refreshed after toggling the status bar icon display.
