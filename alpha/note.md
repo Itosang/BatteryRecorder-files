@@ -1,7 +1,7 @@
 ## 变更
 
-- 状态栏图标显示使用系统默认字体（非主题字体）
+- 修复服务启动导致 App 崩溃
 
 ## Changes
 
-- Status bar icons use the system default font (not the theme font).
+- Fixed an app crash when server starts
