@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复部分系统字体初始化不完整导致状态栏显示通知崩溃
+- 新增实时通知/悬浮窗自定义内容功能
 
 ## Changes
 
-- Fixed a crash when displaying notifications in the status bar caused by incomplete initialization of certain system fonts.
+- Added support for customizing content in realtime notifications/floating windows.
