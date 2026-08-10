@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复服务启动导致 App 崩溃
+- 修复部分系统字体初始化不完整导致状态栏显示通知崩溃
 
 ## Changes
 
-- Fixed an app crash when server starts
+- Fixed a crash when displaying notifications in the status bar caused by incomplete initialization of certain system fonts.
