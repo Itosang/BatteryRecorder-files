@@ -1,7 +1,7 @@
 ## 变更
 
-- 优化 Markdown 内联代码块在列表的渲染效果
+- 尝试修复 ImGui 悬浮窗内存泄露问题
 
 ## Changes
 
-- Optimized the rendering of inline Markdown code blocks within lists.
+- Attempted to fix the memory leak in the ImGui floating window.
