@@ -1,7 +1,7 @@
 ## 变更
 
-- 尝试修复 ImGui 悬浮窗内存泄露问题
+- 新增自定义状态栏图标颜色设置
 
 ## Changes
 
-- Attempted to fix the memory leak in the ImGui floating window.
+- Added a setting for custom status bar icon color.
