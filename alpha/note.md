@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增设置 Provider
+- 优化 Markdown 内联代码块在列表的渲染效果
 
 ## Changes
 
-- Added Settings Provider
+- Optimized the rendering of inline Markdown code blocks within lists.
