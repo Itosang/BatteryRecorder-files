@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增自定义状态栏图标颜色设置
+- 修复 ColorOS 12-16 上的内存泄露
 
 ## Changes
 
-- Added a setting for custom status bar icon color.
+- Fixed the memory leak on OxygenOS 12-16
