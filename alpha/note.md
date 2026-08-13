@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复前台 app 监听失效
+- 优化预测算法对电量大幅度异常跳动噪声处理
 
 ## Changes
 
-- Fixed an issue where the foreground app listener was not working.
+- Optimized the prediction algorithm to handle significant, anomalous fluctuations (noise) in power readings.
