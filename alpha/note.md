@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增满电电池容量预测
+- 修复前台 app 监听失效
 
 ## Changes
 
-- Added prediction of full-charge battery capacity.
+- Fixed an issue where the foreground app listener was not working.
