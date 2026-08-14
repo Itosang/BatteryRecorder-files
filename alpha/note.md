@@ -1,7 +1,7 @@
 ## 变更
 
-- 优化预测算法: 提高真实边缘掉电数据在预测算法中的权值到 2/3
+- 修复内存泄露补丁在 RealmeUI / OxygenOS 不生效问题
 
 ## Changes
 
-- Optimize the prediction algorithm: Increase the weight of real-world edge power loss data in the prediction algorithm to 2/3.
+- Fixed the issue where the memory leak patch was not working on RealmeUI / OxygenOS.
