@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复内存泄露补丁在 RealmeUI / OxygenOS 不生效问题
+- 修复澎湃OS状态栏图标显示
 
 ## Changes
 
-- Fixed the issue where the memory leak patch was not working on RealmeUI / OxygenOS.
+- Fixed status bar icon displays on HyperOS
