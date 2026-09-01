@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复澎湃OS状态栏图标显示
+- 无内容
 
 ## Changes
 
-- Fixed status bar icon displays on HyperOS
+- No content
