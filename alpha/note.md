@@ -1,7 +1,7 @@
 ## 变更
 
-- 无内容
+- 新增隐藏后台任务
 
 ## Changes
 
-- No content
+- Added hiding recent task
