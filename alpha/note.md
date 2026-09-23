@@ -1,11 +1,9 @@
 ## 变更
 
-- 重构 APP Module 架构
-- 全新菜单样式与交互体验
-- 优化全局主题色设置效果
+- 新增顶栏渐进式模糊
+- 调整部分页面的内容边距
 
 ## Changes
 
-- Refactor the APP Module architecture
-- Brand-new menu style and interactive experience
-- Optimize the global theme color setting effect
+- Added progressive blur to the top bar
+- Adjusted the content margins on some pages
