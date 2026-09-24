@@ -1,9 +1,7 @@
 ## 变更
 
-- 新增顶栏渐进式模糊
-- 调整部分页面的内容边距
+- 修复辣鸡联发科的模糊卡顿问题
 
 ## Changes
 
-- Added progressive blur to the top bar
-- Adjusted the content margins on some pages
+- Fixed the blurry stuttering issue on MediaTek devices.
