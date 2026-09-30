@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复实时通知点击进入 APP 失效
+- 继续优化菜单动画效果
 
 ## Changes
 
-- Fix real-time notification click to enter APP failure
+- Continue optimizing the menu animation effects.
