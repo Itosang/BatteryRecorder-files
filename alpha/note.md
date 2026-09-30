@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复辣鸡联发科的模糊卡顿问题
+- 优化菜单效果
 
 ## Changes
 
-- Fixed the blurry stuttering issue on MediaTek devices.
+- Optimize menu effects
