@@ -1,7 +1,7 @@
 ## 变更
 
-- 继续优化菜单动画效果
+- 适配 Android 16+ 实时更新通知特性
 
 ## Changes
 
-- Continue optimizing the menu animation effects.
+- Adapted Android 16+ Live Updated Notification Feature.
