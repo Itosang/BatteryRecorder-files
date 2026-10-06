@@ -1,7 +1,7 @@
 ## 变更
 
-- 适配 Android 16+ 实时更新通知特性
+- 重绘首页 UI 样式（持续改进中，非最终版本）
 
 ## Changes
 
-- Adapted Android 16+ Live Updated Notification Feature.
+- Redraw the homepage UI style (continuously being improved, not the final version)
