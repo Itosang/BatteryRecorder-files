@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复正常但续航强的记录被异常过滤
+- 更新贡献者信息
 
 ## Changes
 
-- Fixed an issue where valid records with long battery life were being incorrectly filtered out.
+- Updated the contributors info
