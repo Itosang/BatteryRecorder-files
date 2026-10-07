@@ -1,7 +1,7 @@
 ## 变更
 
-- 重绘首页 UI 样式（持续改进中，可能是最终版本）
+- 修复正常但续航强的记录被异常过滤
 
 ## Changes
 
-- Redraw the homepage UI style (continuously being improved, maybe is the final version)
+- Fixed an issue where valid records with long battery life were being incorrectly filtered out.
