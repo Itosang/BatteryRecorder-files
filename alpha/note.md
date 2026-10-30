@@ -1,7 +1,7 @@
 ## 变更
 
-- 优化首页 UI 样式
+- 允许在设备未解锁时开始记录
 
 ## Changes
 
-- Optimize the homepage UI style
+- Allowed to start to record though the device has not been unlocked.
