@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增悬浮窗大小设置
+- 新增库仑计记录
 
 ## Changes
 
-- Added overlay floating window scale setting
+- Added charge counter recording
