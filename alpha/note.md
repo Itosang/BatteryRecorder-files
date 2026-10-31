@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增库仑计记录
+- 新增电流图表曲线
 
 ## Changes
 
-- Added charge counter recording
+- Added current chart
