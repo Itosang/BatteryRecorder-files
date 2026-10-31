@@ -1,7 +1,7 @@
 ## 变更
 
-- 允许在设备未解锁时开始记录
+- 新增悬浮窗大小设置
 
 ## Changes
 
-- Allowed to start to record though the device has not been unlocked.
+- Added overlay floating window scale setting
