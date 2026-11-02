@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增电流图表曲线
+- 修复开启轮询下轮换服务失败
 
 ## Changes
 
-- Added current chart
+- Fix the failure of rotating services when polling is enabled
