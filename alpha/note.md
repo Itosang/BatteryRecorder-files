@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复开启轮询下轮换服务失败
+- 修复设置被异常覆盖问题
 
 ## Changes
 
-- Fix the failure of rotating services when polling is enabled
+- Fixed an issue where settings were unexpectedly overwritten
