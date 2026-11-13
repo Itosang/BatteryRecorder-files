@@ -1,7 +1,7 @@
 ## 变更
 
-- 修复设置被异常覆盖问题
+- 优化记录详情 UI
 
 ## Changes
 
-- Fixed an issue where settings were unexpectedly overwritten
+- Optimize record detail UI
