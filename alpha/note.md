@@ -1,9 +1,7 @@
 ## 变更
 
-- 优化记录详情 UI 3rd
-- 优化主页 UI 文本
+- 优化基于库仑计的续航预测
 
 ## Changes
 
-- Optimized record detail UI 3rd
-- Optimized home UI text
+- Optimized the prediction based on charge counter
