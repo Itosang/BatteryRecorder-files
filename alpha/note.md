@@ -1,7 +1,7 @@
 ## 变更
 
-- 优化基于库仑计的续航预测
+- 修复续航预测扫描文件导致崩溃
 
 ## Changes
 
-- Optimized the prediction based on charge counter
+- Fixed a crash that occurred when scanning files for range prediction.
