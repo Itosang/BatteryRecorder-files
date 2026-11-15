@@ -1,7 +1,9 @@
 ## 变更
 
-- 修复续航预测扫描文件导致崩溃
+- 解耦合续航预测模块
+- 实时通知 / 悬浮窗支持查看续航预测
 
 ## Changes
 
-- Fixed a crash that occurred when scanning files for range prediction.
+- Decoupled battery prediction module
+- Support for viewing battery predictions via realtime notification / floating window
