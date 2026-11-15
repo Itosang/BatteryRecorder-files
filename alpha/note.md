@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增语言切换功能
+- 新增状态栏显示续航预测
 
 ## Changes
 
-- Added languages switching feature
+- Added that status bar shows the battery prediction
