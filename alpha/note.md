@@ -1,7 +1,7 @@
 ## 变更
 
-- 新增状态栏显示续航预测
+- 简化文本
 
 ## Changes
 
-- Added that status bar shows the battery prediction
+- Simplified text
