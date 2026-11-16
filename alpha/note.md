@@ -1,7 +1,7 @@
 ## 变更
 
-- 简化文本
+- 优化首页预测卡片样式
 
 ## Changes
 
-- Simplified text
+- Optimize the homepage prediction card style.
