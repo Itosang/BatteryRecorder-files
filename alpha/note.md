@@ -1,7 +1,7 @@
 ## 变更
 
-- 优化首页预测卡片样式
+- 尝试优化息屏续航预测算法
 
 ## Changes
 
-- Optimize the homepage prediction card style.
+- Attempt to optimize the screen-off battery life prediction algorithm
