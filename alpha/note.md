@@ -1,7 +1,7 @@
 ## 变更
 
-- 尝试优化基于库仑计的满电容量估测算法
+- 详情页卡片部分可折叠
 
 ## Changes
 
-- Attempt to optimize the coulomb counter-based full-charge capacity estimation algorithm
+- Made the card part of the details page collapsible
