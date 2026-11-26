@@ -1,7 +1,8 @@
 ## 变更
 
-- 详情页卡片部分可折叠
+- 优化详情页
+- 更换一个图标
 
 ## Changes
 
-- Made the card part of the details page collapsible
+- optimization detail page
